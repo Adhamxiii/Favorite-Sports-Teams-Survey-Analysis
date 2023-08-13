@@ -48,7 +48,7 @@ The collected data was analyzed using descriptive statistics and data visualizat
 
 ## Key Findings
 
-1. **Popular Teams:** The survey revealed that "Al Ahly" and "Zamalek" were among the most favored sports teams.
+1. **Popular Teams:** The survey revealed that "Al Ahly" was among the most favored sports teams.
 2. **Demographic Patterns:** Gender and age were found to have significant associations with preferences and behaviors related to sports teams.
 3. **Correlations:** Several interesting correlations were found between variables such as age, frequency of watching games, importance of winning, motivation to support the team, and feeling when losing.
 
