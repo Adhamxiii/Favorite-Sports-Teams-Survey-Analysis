@@ -8,14 +8,18 @@ This README provides an overview of the "Favorite Sports Teams Survey" project c
 
 ## Table of Contents
 
-- [Project Goals](#project-goals)
-- [Methodology](#methodology)
-- [Data Collection](#data-collection)
-- [Data Analysis](#data-analysis)
-- [Key Findings](#key-findings)
-- [Limitations](#limitations)
-- [Conclusion](#conclusion)
-- [Contact Information](#contact-information)
+- [Favorite Sports Teams Survey Analysis](#favorite-sports-teams-survey-analysis)
+  - [Introduction](#introduction)
+  - [Table of Contents](#table-of-contents)
+  - [Project Goals](#project-goals)
+  - [Methodology](#methodology)
+  - [Data Collection](#data-collection)
+  - [Data Analysis](#data-analysis)
+  - [Key Findings](#key-findings)
+  - [Analysis Code](#analysis-code)
+  - [Limitations](#limitations)
+  - [Conclusion](#conclusion)
+  - [Contact Information](#contact-information)
 
 ## Project Goals
 
@@ -69,5 +73,5 @@ The "Favorite Sports Teams Survey" project provided valuable insights into the p
 ## Contact Information
 
 For further information or inquiries, please contact:
-[Adham Nasser](mailto:adhamxiii10@gmail.com)
+[Adham Nasser](mailto:adhamxiii22@gmail.com)
 
